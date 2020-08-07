@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### `Who am I`
 
-欢迎来到我的博客, 我是<b style="color: #0ed2f7"> **三·钻 (TriDiamond)** </b>,
+欢迎来到我的GitHub, 我是<b style="color: #0ed2f7"> **三·钻 (TriDiamond)** </b>,
 从专注于 PHP 开发到爱上钻研前端 Vue，Angular 和混合 APP 开发，
 
 追求极致, 追求完美, 喜欢一个高效, 优雅, 高凝聚力的团队,
