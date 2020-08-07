@@ -29,16 +29,6 @@ specialized in PHP, Javascript, VueJs, AngularJs, Webpack, Laravel, Lumen.
 
 ---
 
-### `Open Sources`
-
-- [vuejs-countdown-timer](https://github.com/TriDiamond/vuejs-countdown-timer) 一 Vue 2 活动倒计时组件
-- [vuejs-scroll-fixed-header](https://github.com/TriDiamond/vuejs-scroll-fixed-header) 一 Vue 2 滑动固定头部组件
-- [vue-photoswipe](https://github.com/TriDiamond/vue-photoswipe) 一 A Vue Integrated PhotoSwipe Image Preview Plugin
-- [vuejs-sticky-directive](https://github.com/TriDiamond/vuejs-sticky-directive) 一 支持头部和底部 sticky 的功能, 使用的是原生 js 和 vue 的 directive 实现
-- [captcha-lumen5](https://github.com/TriDiamond/captcha-lumen5) 一 Lumen5 的验证码包
-
----
-
 ### `Dev Gears`
 
 - 硬件：MackBook Pro 15 寸
@@ -53,6 +43,4 @@ specialized in PHP, Javascript, VueJs, AngularJs, Webpack, Laravel, Lumen.
 - MongoDB 管理工具：[Robo 3T](https://robomongo.org/)
 - 设计工具：[Sketch 5 (Mac)](https://www.sketch.com/)
 - Markdown 编写工具：[Typora](https://typora.io/)
-
----
 
