@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 ### `Who am I`
 
 欢迎来到我的GitHub, 我是<b style="color: #0ed2f7"> **三·钻 (TriDiamond)** </b>,
+
 —— 起步于PHP，一入前端深似海，最后爱上了前端。Vue、React使用者。专于Web、移动端开发。特别关注产品和UI设计。专心、专注、专研，与同学们一起终身学习。
 
 写博客和文章的意义和核心源自于希望有更多的开发者能在迷茫的技术职业生涯中少掉一点坑，对技术的热爱和热情更加坚定。
