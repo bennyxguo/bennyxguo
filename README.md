@@ -29,18 +29,10 @@ specialized in PHP, Javascript, VueJs, AngularJs, Webpack, Laravel, Lumen.
 
 ---
 
-### `Dev Gears`
+### `My blogs`
 
-- 硬件：MackBook Pro 15 寸
-- 系统：Mac 版本 10.10 以上
-- 编辑器：[PhpStorm](https://www.jianshu.com/p/c8a7fcd57896)
-- PHP 代码风格矫正器：[PHP-CS-Fixer](https://www.jianshu.com/p/d147dcf43a04)
-- 命令行工具：[iTerm2 (Mac)](https://www.iterm2.com/)
-- 浏览器：[Chrome](https://www.google.com/chrome/browser/desktop/index.html)
-- 虚拟机：[VirtualBox](https://www.virtualbox.org/)
-- MySQL 数据库查询工具：[Sequel Pro (Mac)](http://www.sequelpro.com/)
-- Redis 管理工具：[Medis (Mac)](https://xclient.info/s/medis.html)
-- MongoDB 管理工具：[Robo 3T](https://robomongo.org/)
-- 设计工具：[Sketch 5 (Mac)](https://www.sketch.com/)
-- Markdown 编写工具：[Typora](https://typora.io/)
+- CSDN：https://blog.csdn.net/TriDiamond6
+- 掘金：https://juejin.im/user/1873223546578589/posts
+- 知乎：https://www.zhihu.com/people/tridiamond
+- Github: https://github.com/TriDiamond
 
