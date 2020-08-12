@@ -16,14 +16,13 @@ Here are some ideas to get you started:
 ### `Who am I`
 
 欢迎来到我的GitHub, 我是<b style="color: #0ed2f7"> **三·钻 (TriDiamond)** </b>,
-从专注于 PHP 开发到爱上钻研前端 Vue，Angular 和混合 APP 开发，
+—— 起步于PHP，一入前端深似海，最后爱上了前端。Vue、React使用者。专于Web、移动端开发。特别关注产品和UI设计。专心、专注、专研，与同学们一起终身学习。
 
-追求极致, 追求完美, 喜欢一个高效, 优雅, 高凝聚力的团队,
-立志于打造最优秀的产品, 成为一名既优雅而有深度的技术人才。
+写博客和文章的意义和核心源自于希望有更多的开发者能在迷茫的技术职业生涯中少掉一点坑，对技术的热爱和热情更加坚定。
 
 热爱户外旅游和接受挑战，与女朋友玩耍逛街，生活和工作平衡，有节奏感的人生。
 
-Welcome to my blog, I am <b style="color: #0ed2f7">**TriDiamond**</b>
+Welcome to my Github page, I am <b style="color: #0ed2f7">**TriDiamond**</b>
 Full-stack software engineer and framework architect ,
 specialized in PHP, Javascript, VueJs, AngularJs, Webpack, Laravel, Lumen.
 
