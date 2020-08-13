@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 热爱户外旅游和接受挑战，与女朋友玩耍逛街，生活和工作平衡，有节奏感的人生。
 
 Welcome to my Github page, I am <b style="color: #0ed2f7">**TriDiamond**</b>
-Full-stack software engineer and framework architect ,
-specialized in PHP, Javascript, VueJs, AngularJs, Webpack, Laravel, Lumen.
+Prolific Web developer with experience in PHP, Javascript, VueJs, AngularJs, Webpack, Laravel, Lumen. Seeking to deliver efficient and high quality programs. A creative thinker, adept in software development and striving to make a world a more unified and connected place.
 
 ---
 
