@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![TriDiamond's github stats](https://github-readme-stats.vercel.app/api?username=TriDiamond&theme=tokyonight&show_icons=true)
+
 ### `Who am I`
 
 欢迎来到我的GitHub, 我是<b style="color: #0ed2f7"> **三·钻 (TriDiamond)** </b>,
