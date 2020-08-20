@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![TriDiamond's github stats](https://github-readme-stats.vercel.app/api?username=TriDiamond&theme=tokyonight&show_icons=true)
-
 ### `Who am I`
 
 欢迎来到我的GitHub, 我是<b style="color: #0ed2f7"> **三·钻 (TriDiamond)** </b>,
@@ -38,3 +36,7 @@ Prolific Web developer with experience in PHP, Javascript, VueJs, AngularJs, Web
 - 知乎：https://www.zhihu.com/people/tridiamond
 - Github: https://github.com/TriDiamond
 
+---
+
+![TriDiamond's github stats](https://github-readme-stats.vercel.app/api?username=TriDiamond&theme=tokyonight&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TriDiamond&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
