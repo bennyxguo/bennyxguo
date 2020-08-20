@@ -38,6 +38,4 @@ Prolific Web developer with experience in PHP, Javascript, VueJs, AngularJs, Web
 
 ---
 
-![TriDiamond's github stats](https://github-readme-stats.vercel.app/api?username=TriDiamond&theme=tokyonight&show_icons=true) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TriDiamond&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![TriDiamond's github stats](https://github-readme-stats.vercel.app/api?username=TriDiamond&theme=dracula&show_icons=true) 
