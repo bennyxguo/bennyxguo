@@ -38,10 +38,12 @@ Prolific Web developer with experience in PHP, Javascript, VueJs, AngularJs, Web
 
 ---
 
-![TriDiamond's github stats](https://github-readme-stats.vercel.app/api?username=TriDiamond&theme=dracula&show_icons=true) 
+### `My DISCORD community server`
+
+<a href="https://discord.gg/VC7CrYfds5"><img alt="discord" src="https://img.shields.io/discord/801943105913225246?label=discord&style=for-the-badge)"/></a>
 
 ---
 
-My DISCORD community server
+![TriDiamond's github stats](https://github-readme-stats.vercel.app/api?username=TriDiamond&theme=dracula&show_icons=true) 
 
-<a href="https://discord.gg/VC7CrYfds5"><img alt="discord" src="https://img.shields.io/discord/801943105913225246?label=discord&style=for-the-badge)"/></a>
+
