@@ -44,4 +44,4 @@ Prolific Web developer with experience in PHP, Javascript, VueJs, AngularJs, Web
 
 My DISCORD community server
 
-<iframe src="https://discord.com/widget?id=801943105913225246&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+![Discord](https://img.shields.io/discord/801943105913225246?label=discord&style=for-the-badge)
