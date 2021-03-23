@@ -42,8 +42,4 @@ Prolific Web developer with experience in PHP, Javascript, VueJs, AngularJs, Web
 
 <a href="https://discord.gg/VC7CrYfds5"><img src="https://discordapp.com/api/guilds/801943105913225246/widget.png?style=banner2" alt="Discord Banner 2"/></a>
 
----
-
-![TriDiamond's github stats](https://github-readme-stats.vercel.app/api?username=TriDiamond&theme=dracula&show_icons=true) 
-
 
