@@ -15,21 +15,12 @@ Here are some ideas to get you started:
 
 ### 🐼 `Who am I`
 
-G'day, mate! 👋 I am Benny (aka `TriDiamond`) a freelance web developer, who ❤️ to develop open source themes and applications.
-
-I have being a programmer for over 5 years, and have extensive experiences in both frontend and backend development. 
+G'day, mate! 👋 I am Benny (aka `TriDiamond`) a freelance web developer, who ❤️ to develop open source themes and applications. I have being a programmer for over 5 years, and have extensive experiences in both frontend and backend development. 
 
 #### ✨ `Skills`
 
-- Frontend
-  - Frameworks: Vue, React
-  - Javascript
-  - TypeScript
-- Backend
-  - Frameworks: Laravel, Lumen
-  - Swoole
-  - PHP
-  - Node.js 
+- Frontend: Vue, React, JavaScript, TypeScript
+- Backend: Laravel, Lumen, Swoole, PHP, Node.js 
 
 #### 📜 `Experiences`
 
