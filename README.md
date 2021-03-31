@@ -19,7 +19,7 @@ G'day, mate! 👋 I am Benny (aka `TriDiamond`) a freelance web developer, who �
 
 I have being a programmer for over 5 years, and have extensive experiences in both frontend and backend development. 
 
-#### ✨ Skills
+#### ✨ `Skills`
 
 - Frontend
   - Frameworks: Vue, React
