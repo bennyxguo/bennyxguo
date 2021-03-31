@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🐼 `Who am I`
-
 G'day, mate! 👋 I am Benny (aka `TriDiamond`) a freelance web developer, who ❤️ to develop open source themes and applications. I have being a programmer for over 5 years, and have extensive experiences in both frontend and backend development. 
 
 #### ✨ `Skills`
@@ -38,9 +36,7 @@ G'day, mate! 👋 I am Benny (aka `TriDiamond`) a freelance web developer, who �
 - Star Blogger top 200 on CSDN in 2020.
 - Built Obsidian theme for Hexo recieved high feedback.
 
----
-
-### 🔭 `Working on`
+#### 🔭 `Working on`
 
 - [Hexo theme Aurora](https://github.com/auroral-ui/hexo-obsidianext-blog)
 - [Obsidian.md theme Obsidianite](https://github.com/TriDiamond/Obsidian-Obsidianite)
@@ -48,18 +44,14 @@ G'day, mate! 👋 I am Benny (aka `TriDiamond`) a freelance web developer, who �
 - [Hexo theme Obsidian](https://github.com/TriDiamond/hexo-theme-obsidian)
 - and other npm packages...
 
----
-
-### ✍🏻 `My blogs`
+#### ✍🏻 `My blogs`
 
 - CSDN：https://blog.csdn.net/TriDiamond6
 - 掘金：https://juejin.im/user/1873223546578589/posts
 - 知乎：https://www.zhihu.com/people/tridiamond
 - Github: https://github.com/TriDiamond
 
----
-
-### 💬 `Join my community`
+#### 💬 `Join my community`
 
 <a href="https://discord.gg/VC7CrYfds5"><img src="https://discordapp.com/api/guilds/801943105913225246/widget.png?style=banner2" alt="Discord Banner 2"/></a>
 
