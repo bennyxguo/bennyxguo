@@ -13,23 +13,53 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### `Who am I`
+### 🐼 `Who am I`
 
-Welcome to my Github page, I am <b style="color: #0ed2f7">**TriDiamond**</b>,
+G'day, mate! 👋 I am Benny (aka `TriDiamond`) a freelance web developer, who ❤️ to develop open source themes and applications.
 
-Prolific Web developer with experience in PHP, Javascript, VueJs, AngularJs, Webpack, Laravel, Lumen. Seeking to deliver efficient and high quality programs. A creative thinker, adept in software development and striving to make a world a more unified and connected place.
+I have being a programmer for over 5 years, and have extensive experiences in both frontend and backend development. 
 
-欢迎来到我的GitHub, 我是<b style="color: #0ed2f7"> **三·钻 (TriDiamond)** </b>,
+#### ✨ Skills
 
-—— 起步于PHP，一入前端深似海，最后爱上了前端。Vue、React使用者。专于Web、移动端开发。特别关注产品和UI设计。专心、专注、专研，与同学们一起终身学习。
+- Frontend
+  - Frameworks: Vue, React
+  - Javascript
+  - TypeScript
+- Backend
+  - Frameworks: Laravel, Lumen
+  - Swoole
+  - PHP
+  - Node.js 
 
-写博客和文章的意义和核心源自于希望有更多的开发者能在迷茫的技术职业生涯中少掉一点坑，对技术的热爱和热情更加坚定。
+#### 📜 `Experiences`
 
-热爱户外旅游和接受挑战，与女朋友玩耍逛街，生活和工作平衡，有节奏感的人生。
+- Built a CMS system from ground up.
+- Built fully customized ERP system for B2B or eshop.
+- Built a Financial Risk Control System.
+- Built themes and website for companies.
+- Built Android and IOS APP with Ionic and Angular.
+- Lead a tech team of 20+ engineers. 
+
+#### 🏆 `Achievements`
+
+- Built Obsidian.md theme recieved theme of the year for 2020.
+- Professional tech blogger on CSDN.
+- Star Blogger top 200 on CSDN in 2020.
+- Built Obsidian theme for Hexo recieved high feedback.
 
 ---
 
-### `My blogs`
+### 🔭 `Working on`
+
+- [Hexo theme Aurora](https://github.com/auroral-ui/hexo-obsidianext-blog)
+- [Obsidian.md theme Obsidianite](https://github.com/TriDiamond/Obsidian-Obsidianite)
+- Aurora UI Components - WIP
+- [Hexo theme Obsidian](https://github.com/TriDiamond/hexo-theme-obsidian)
+- and other npm packages...
+
+---
+
+### ✍🏻 `My blogs`
 
 - CSDN：https://blog.csdn.net/TriDiamond6
 - 掘金：https://juejin.im/user/1873223546578589/posts
@@ -38,8 +68,12 @@ Prolific Web developer with experience in PHP, Javascript, VueJs, AngularJs, Web
 
 ---
 
-### `Join my community`
+### 💬 `Join my community`
 
 <a href="https://discord.gg/VC7CrYfds5"><img src="https://discordapp.com/api/guilds/801943105913225246/widget.png?style=banner2" alt="Discord Banner 2"/></a>
+
+---
+
+I am currently **working from home**. Can contact me if you want to build a website or build a system. Reach me by sending me an email. Thanks!
 
 
