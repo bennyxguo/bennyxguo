@@ -46,7 +46,7 @@ G'day, mate! 👋 I am Benny (aka `TriDiamond`) a professional web developer, wh
 
 #### ✍🏻 `My blogs`
 
-[DEV.TO](https://dev.to/tridiamond) | [CSDN](https://blog.csdn.net/TriDiamond6) | [掘金](https://juejin.im/user/1873223546578589/posts) | [知乎](https://www.zhihu.com/people/tridiamond)
+[BLOG](https://tridiamond.tech) | [DEV.TO](https://dev.to/tridiamond) | [CSDN](https://blog.csdn.net/TriDiamond6) | [掘金](https://juejin.im/user/1873223546578589/posts) | [知乎](https://www.zhihu.com/people/tridiamond)
 
 #### 💬 `Join my community`
 
