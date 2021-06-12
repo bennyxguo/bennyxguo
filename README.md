@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-G'day, mate! 👋 I am Benny (aka `TriDiamond`) a freelance web developer, who ❤️ to develop open source themes and applications. I have being a programmer for over 5 years, and have extensive experiences in both frontend and backend development. 
+G'day, mate! 👋 I am Benny (aka `TriDiamond`) a professional web developer, who ❤️ to develop open source themes and applications. I have being a programmer for over 5 years, and have extensive experiences in both frontend and backend development. 
 
 #### ✨ `Skills`
 
@@ -46,10 +46,7 @@ G'day, mate! 👋 I am Benny (aka `TriDiamond`) a freelance web developer, who �
 
 #### ✍🏻 `My blogs`
 
-- CSDN：https://blog.csdn.net/TriDiamond6
-- 掘金：https://juejin.im/user/1873223546578589/posts
-- 知乎：https://www.zhihu.com/people/tridiamond
-- Github: https://github.com/TriDiamond
+[DEV.TO](https://dev.to/tridiamond) | [CSDN](https://blog.csdn.net/TriDiamond6) | [掘金](https://juejin.im/user/1873223546578589/posts) | [知乎](https://www.zhihu.com/people/tridiamond)
 
 #### 💬 `Join my community`
 
