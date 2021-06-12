@@ -42,6 +42,7 @@ G'day, mate! 👋 I am Benny (aka `TriDiamond`) a professional web developer, wh
 - [Obsidian.md theme Obsidianite](https://github.com/TriDiamond/Obsidian-Obsidianite)
 - Aurora UI Components - WIP
 - [Hexo theme Obsidian](https://github.com/TriDiamond/hexo-theme-obsidian)
+- [Side Projects](https://github.com/TriDiamond/projects)
 - and other npm packages...
 
 #### ✍🏻 `My blogs`
