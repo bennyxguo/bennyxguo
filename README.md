@@ -55,6 +55,6 @@ G'day, mate! 👋 I am Benny (aka `TriDiamond`) a professional web developer, wh
 
 ---
 
-I am currently **working from home**. Can contact me if you want to build a website or build a system. Reach me by sending me an email. Thanks!
-
+- I am currently **working from home**. Can contact me if you want to build a website or build a system. Reach me by sending me an email. Thanks!
+- Looking for a permanent position in Sydney Australia.
 
