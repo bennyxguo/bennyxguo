@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=tridiamond&badges=4&show-avatar=fase&style=--header-bg-color:%23000;--border-radius:10px"
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=tridiamond&badges=4&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
 />
 
 G'day, mate! 👋 I am Benny (aka `TriDiamond`) a professional web developer, who ❤️ to develop open source themes and applications. I have being a programmer for over 5 years, and have extensive experiences in both frontend and backend development. 
