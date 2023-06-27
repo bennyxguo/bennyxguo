@@ -79,6 +79,3 @@ G'day, mate! 👋 I am Benny a professional web developer, who ❤️ to develop
 
 ---
 
-- I am currently **working from home**. Can contact me if you want to build a website or build a system. Reach me by sending me an email. Thanks!
-- Looking for a permanent position in Sydney Australia.
-
