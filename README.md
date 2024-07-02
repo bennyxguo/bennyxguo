@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 />
 -->
 
-G'day, mate! 👋 I am Benny a professional web developer, who ❤️ to develop open source themes and applications. I have being a programmer for over 8 years, and have extensive experiences in both frontend and backend development. 
+G'day, mate! 👋 I am Benny a professional web developer, who ❤️ to develop open source themes and applications. I have being a programmer for over 10 years, and have extensive experiences in both frontend and backend development. 
 
 #### ✨ `Skills & Tools`
 
