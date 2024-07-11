@@ -90,3 +90,5 @@ G'day, mate! 👋 I am Benny a professional web developer, who ❤️ to develop
 
 ---
 
+![Benny's GitHub stats](https://github-readme-stats.vercel.app/api?username=bennyxguo&show_icons=true&theme=radical)
+
