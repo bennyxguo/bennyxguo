@@ -132,9 +132,9 @@ Open source has been a big part of my development journey, especially around the
 ### Open Source Projects
 
 - [Aurora — Hexo Theme](https://github.com/auroral-ui/hexo-theme-aurora)
-- [Obsidianite — Obsidian Theme](https://github.com/TriDiamond/Obsidian-Obsidianite)
-- [Obsidian — Hexo Theme](https://github.com/TriDiamond/hexo-theme-obsidian)
-- [Side Projects](https://github.com/TriDiamond/projects)
+- [Obsidianite — Obsidian Theme](https://github.com/bennyxguo/Obsidian-Obsidianite)
+- [Obsidian — Hexo Theme](https://github.com/bennyxguo/hexo-theme-obsidian)
+- [Side Projects](https://github.com/bennyxguo/projects)
 
 ## ✍🏻 Writing & Community
 
@@ -156,7 +156,7 @@ I enjoy sharing what I've learned through technical articles, open-source projec
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TriDiamond&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bennyxguo&show_icons=true&theme=github_dark)
 
 ---
 
